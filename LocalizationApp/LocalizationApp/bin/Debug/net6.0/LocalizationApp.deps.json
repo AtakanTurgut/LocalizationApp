@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LocalizationApp/1.0.0": {
+        "runtime": {
+          "LocalizationApp.dll": {}
+        },
+        "resources": {
+          "en-US/LocalizationApp.resources.dll": {
+            "locale": "en-US"
+          },
+          "tr-TR/LocalizationApp.resources.dll": {
+            "locale": "tr-TR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalizationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

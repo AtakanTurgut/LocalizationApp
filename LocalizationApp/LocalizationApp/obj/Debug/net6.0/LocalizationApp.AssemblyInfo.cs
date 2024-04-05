@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalizationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5b160116192a83cfe0dd301d76c152c898e4965")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalizationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalizationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
